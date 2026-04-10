@@ -1,0 +1,2881 @@
+{
+  "events": {
+    "R_20260308_034801_JCL1I": {
+      "rosterId": "R_20260308_034801_JCL1I",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-03-09T00:00:00.000Z",
+        "endIso": "2026-03-09T00:15:00.000Z",
+        "durationMin": 15,
+        "mainLimit": 10,
+        "subLimit": 2,
+        "closeBeforeMin": 5,
+        "repeats": "None",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260408_234848_VRIOL": {
+      "rosterId": "R_20260408_234848_VRIOL",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-13T00:00:00.000Z",
+        "endIso": "2026-04-13T01:00:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 5,
+        "repeats": "None",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260408_235357_GFHK3": {
+      "rosterId": "R_20260408_235357_GFHK3",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "TEST",
+        "startIso": "2026-04-09T01:00:00.000Z",
+        "endIso": "2026-04-09T01:30:00.000Z",
+        "durationMin": 30,
+        "mainLimit": 10,
+        "subLimit": 3,
+        "closeBeforeMin": 5,
+        "repeats": "Daily",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260409_173849_33AL9": {
+      "rosterId": "R_20260409_173849_33AL9",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "TEST",
+        "startIso": "2026-04-10T01:00:00.000Z",
+        "endIso": "2026-04-10T01:30:00.000Z",
+        "durationMin": 30,
+        "mainLimit": 10,
+        "subLimit": 3,
+        "closeBeforeMin": 5,
+        "repeats": "Daily",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": "1491960917846659192",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1491960917846659192",
+      "announceMessageIds": [],
+      "rsvp": {
+        "799014579334152247": {
+          "status": "REJECTED",
+          "tier": null,
+          "name": "🄺🅼 Abu Fayez",
+          "at": 1775781664702,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": "NOT_IN_VOICE_MINUS5"
+        }
+      }
+    },
+    "R_20260409_230638_GSB0E": {
+      "rosterId": "R_20260409_230638_GSB0E",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-13T00:40:00.000Z",
+        "endIso": "2026-04-13T01:05:00.000Z",
+        "durationMin": 25,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_043001_NHSBX": {
+      "rosterId": "R_20260410_043001_NHSBX",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "TEST",
+        "startIso": "2026-04-11T01:00:00.000Z",
+        "endIso": "2026-04-11T01:30:00.000Z",
+        "durationMin": 30,
+        "mainLimit": 10,
+        "subLimit": 3,
+        "closeBeforeMin": 5,
+        "repeats": "Daily",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_152140_ZRKEU": {
+      "rosterId": "R_20260410_152140_ZRKEU",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-13T00:22:00.000Z",
+        "endIso": "2026-04-13T00:37:00.000Z",
+        "durationMin": 15,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "None",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_KXNFH": {
+      "rosterId": "R_20260410_160328_KXNFH",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T00:04:00.000Z",
+        "endIso": "2026-04-10T01:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_IZ9CI": {
+      "rosterId": "R_20260410_160328_IZ9CI",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T00:34:00.000Z",
+        "endIso": "2026-04-10T01:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_W1IRX": {
+      "rosterId": "R_20260410_160328_W1IRX",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T01:04:00.000Z",
+        "endIso": "2026-04-10T02:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_0JKSP": {
+      "rosterId": "R_20260410_160328_0JKSP",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T01:34:00.000Z",
+        "endIso": "2026-04-10T02:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_3O0AY": {
+      "rosterId": "R_20260410_160328_3O0AY",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T02:04:00.000Z",
+        "endIso": "2026-04-10T03:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_PH2W9": {
+      "rosterId": "R_20260410_160328_PH2W9",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T02:34:00.000Z",
+        "endIso": "2026-04-10T03:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_2SOVQ": {
+      "rosterId": "R_20260410_160328_2SOVQ",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T03:04:00.000Z",
+        "endIso": "2026-04-10T04:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_DJXR6": {
+      "rosterId": "R_20260410_160328_DJXR6",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T03:34:00.000Z",
+        "endIso": "2026-04-10T04:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_OZKI2": {
+      "rosterId": "R_20260410_160328_OZKI2",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T04:04:00.000Z",
+        "endIso": "2026-04-10T05:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_COYVO": {
+      "rosterId": "R_20260410_160328_COYVO",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T04:34:00.000Z",
+        "endIso": "2026-04-10T05:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_5YKR7": {
+      "rosterId": "R_20260410_160328_5YKR7",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T05:04:00.000Z",
+        "endIso": "2026-04-10T06:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_LE8F9": {
+      "rosterId": "R_20260410_160328_LE8F9",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T05:34:00.000Z",
+        "endIso": "2026-04-10T06:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_T12RW": {
+      "rosterId": "R_20260410_160328_T12RW",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T06:04:00.000Z",
+        "endIso": "2026-04-10T07:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_926V0": {
+      "rosterId": "R_20260410_160328_926V0",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T06:34:00.000Z",
+        "endIso": "2026-04-10T07:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_AVRHL": {
+      "rosterId": "R_20260410_160328_AVRHL",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T07:04:00.000Z",
+        "endIso": "2026-04-10T08:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_VB9PQ": {
+      "rosterId": "R_20260410_160328_VB9PQ",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T07:34:00.000Z",
+        "endIso": "2026-04-10T08:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_XE2WM": {
+      "rosterId": "R_20260410_160328_XE2WM",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T08:04:00.000Z",
+        "endIso": "2026-04-10T09:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_6FMV7": {
+      "rosterId": "R_20260410_160328_6FMV7",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T08:34:00.000Z",
+        "endIso": "2026-04-10T09:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_SI42W": {
+      "rosterId": "R_20260410_160328_SI42W",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T09:04:00.000Z",
+        "endIso": "2026-04-10T10:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_1J9TZ": {
+      "rosterId": "R_20260410_160328_1J9TZ",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T09:34:00.000Z",
+        "endIso": "2026-04-10T10:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_Y8O39": {
+      "rosterId": "R_20260410_160328_Y8O39",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T10:04:00.000Z",
+        "endIso": "2026-04-10T11:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_2GD2Q": {
+      "rosterId": "R_20260410_160328_2GD2Q",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T10:34:00.000Z",
+        "endIso": "2026-04-10T11:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_N7T9Z": {
+      "rosterId": "R_20260410_160328_N7T9Z",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T11:04:00.000Z",
+        "endIso": "2026-04-10T12:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_F7YQQ": {
+      "rosterId": "R_20260410_160328_F7YQQ",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T11:34:00.000Z",
+        "endIso": "2026-04-10T12:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160328_LGKYY": {
+      "rosterId": "R_20260410_160328_LGKYY",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T12:04:00.000Z",
+        "endIso": "2026-04-10T13:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160400_FIU6E": {
+      "rosterId": "R_20260410_160400_FIU6E",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T12:34:00.000Z",
+        "endIso": "2026-04-10T13:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_HSYX8": {
+      "rosterId": "R_20260410_160833_HSYX8",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T00:10:00.000Z",
+        "endIso": "2026-04-10T00:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_H71XK": {
+      "rosterId": "R_20260410_160833_H71XK",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T00:40:00.000Z",
+        "endIso": "2026-04-10T01:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_N5U0K": {
+      "rosterId": "R_20260410_160833_N5U0K",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T01:10:00.000Z",
+        "endIso": "2026-04-10T01:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_D6BAF": {
+      "rosterId": "R_20260410_160833_D6BAF",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T01:40:00.000Z",
+        "endIso": "2026-04-10T02:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_UFY9T": {
+      "rosterId": "R_20260410_160833_UFY9T",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T02:10:00.000Z",
+        "endIso": "2026-04-10T02:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_W4XA6": {
+      "rosterId": "R_20260410_160833_W4XA6",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T02:40:00.000Z",
+        "endIso": "2026-04-10T03:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_PC7UB": {
+      "rosterId": "R_20260410_160833_PC7UB",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T03:10:00.000Z",
+        "endIso": "2026-04-10T03:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_FD47J": {
+      "rosterId": "R_20260410_160833_FD47J",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T03:40:00.000Z",
+        "endIso": "2026-04-10T04:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_F8V2F": {
+      "rosterId": "R_20260410_160833_F8V2F",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T04:10:00.000Z",
+        "endIso": "2026-04-10T04:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_1Q0C9": {
+      "rosterId": "R_20260410_160833_1Q0C9",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T04:40:00.000Z",
+        "endIso": "2026-04-10T05:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_84878": {
+      "rosterId": "R_20260410_160833_84878",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T05:10:00.000Z",
+        "endIso": "2026-04-10T05:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_5EBJM": {
+      "rosterId": "R_20260410_160833_5EBJM",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T05:40:00.000Z",
+        "endIso": "2026-04-10T06:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_O7YM4": {
+      "rosterId": "R_20260410_160833_O7YM4",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T06:10:00.000Z",
+        "endIso": "2026-04-10T06:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_1G841": {
+      "rosterId": "R_20260410_160833_1G841",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T06:40:00.000Z",
+        "endIso": "2026-04-10T07:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_8FJWU": {
+      "rosterId": "R_20260410_160833_8FJWU",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T07:10:00.000Z",
+        "endIso": "2026-04-10T07:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_BAXXB": {
+      "rosterId": "R_20260410_160833_BAXXB",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T07:40:00.000Z",
+        "endIso": "2026-04-10T08:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_0XDC2": {
+      "rosterId": "R_20260410_160833_0XDC2",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T08:10:00.000Z",
+        "endIso": "2026-04-10T08:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_BZFXG": {
+      "rosterId": "R_20260410_160833_BZFXG",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T08:40:00.000Z",
+        "endIso": "2026-04-10T09:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_OF2AJ": {
+      "rosterId": "R_20260410_160833_OF2AJ",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T09:10:00.000Z",
+        "endIso": "2026-04-10T09:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_9LU5O": {
+      "rosterId": "R_20260410_160833_9LU5O",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T09:40:00.000Z",
+        "endIso": "2026-04-10T10:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_M6P9K": {
+      "rosterId": "R_20260410_160833_M6P9K",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T10:10:00.000Z",
+        "endIso": "2026-04-10T10:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_016Q3": {
+      "rosterId": "R_20260410_160833_016Q3",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T10:40:00.000Z",
+        "endIso": "2026-04-10T11:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_PWDAI": {
+      "rosterId": "R_20260410_160833_PWDAI",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T11:10:00.000Z",
+        "endIso": "2026-04-10T11:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_5F1S1": {
+      "rosterId": "R_20260410_160833_5F1S1",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T11:40:00.000Z",
+        "endIso": "2026-04-10T12:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_Y6CDP": {
+      "rosterId": "R_20260410_160833_Y6CDP",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T12:10:00.000Z",
+        "endIso": "2026-04-10T12:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_I77U7": {
+      "rosterId": "R_20260410_160833_I77U7",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T12:40:00.000Z",
+        "endIso": "2026-04-10T13:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_160833_9ILKM": {
+      "rosterId": "R_20260410_160833_9ILKM",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T13:10:00.000Z",
+        "endIso": "2026-04-10T13:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492149292612321440",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492149292612321440",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_GDOLP": {
+      "rosterId": "R_20260410_161200_GDOLP",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T00:15:00.000Z",
+        "endIso": "2026-04-10T00:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_FY614": {
+      "rosterId": "R_20260410_161200_FY614",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T00:45:00.000Z",
+        "endIso": "2026-04-10T01:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_CWJ43": {
+      "rosterId": "R_20260410_161200_CWJ43",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T01:15:00.000Z",
+        "endIso": "2026-04-10T01:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_MIDH9": {
+      "rosterId": "R_20260410_161200_MIDH9",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T01:45:00.000Z",
+        "endIso": "2026-04-10T02:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_ZYJNO": {
+      "rosterId": "R_20260410_161200_ZYJNO",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T02:15:00.000Z",
+        "endIso": "2026-04-10T02:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_ISVV6": {
+      "rosterId": "R_20260410_161200_ISVV6",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T02:45:00.000Z",
+        "endIso": "2026-04-10T03:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_N20ZG": {
+      "rosterId": "R_20260410_161200_N20ZG",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T03:15:00.000Z",
+        "endIso": "2026-04-10T03:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_NSQB0": {
+      "rosterId": "R_20260410_161200_NSQB0",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T03:45:00.000Z",
+        "endIso": "2026-04-10T04:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_9LDDI": {
+      "rosterId": "R_20260410_161200_9LDDI",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T04:15:00.000Z",
+        "endIso": "2026-04-10T04:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_RMTE6": {
+      "rosterId": "R_20260410_161200_RMTE6",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T04:45:00.000Z",
+        "endIso": "2026-04-10T05:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_4JI7X": {
+      "rosterId": "R_20260410_161200_4JI7X",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T05:15:00.000Z",
+        "endIso": "2026-04-10T05:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_3L2BN": {
+      "rosterId": "R_20260410_161200_3L2BN",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T05:45:00.000Z",
+        "endIso": "2026-04-10T06:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_GU9SO": {
+      "rosterId": "R_20260410_161200_GU9SO",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T06:15:00.000Z",
+        "endIso": "2026-04-10T06:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_FWZFZ": {
+      "rosterId": "R_20260410_161200_FWZFZ",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T06:45:00.000Z",
+        "endIso": "2026-04-10T07:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_KYY91": {
+      "rosterId": "R_20260410_161200_KYY91",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T07:15:00.000Z",
+        "endIso": "2026-04-10T07:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_NGTS5": {
+      "rosterId": "R_20260410_161200_NGTS5",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T07:45:00.000Z",
+        "endIso": "2026-04-10T08:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_K333I": {
+      "rosterId": "R_20260410_161200_K333I",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T08:15:00.000Z",
+        "endIso": "2026-04-10T08:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_DHSEL": {
+      "rosterId": "R_20260410_161200_DHSEL",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T08:45:00.000Z",
+        "endIso": "2026-04-10T09:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_D0TBE": {
+      "rosterId": "R_20260410_161200_D0TBE",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T09:15:00.000Z",
+        "endIso": "2026-04-10T09:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_EPDYI": {
+      "rosterId": "R_20260410_161200_EPDYI",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T09:45:00.000Z",
+        "endIso": "2026-04-10T10:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_OKB7C": {
+      "rosterId": "R_20260410_161200_OKB7C",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T10:15:00.000Z",
+        "endIso": "2026-04-10T10:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_GGT5O": {
+      "rosterId": "R_20260410_161200_GGT5O",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T10:45:00.000Z",
+        "endIso": "2026-04-10T11:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_AT7MU": {
+      "rosterId": "R_20260410_161200_AT7MU",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T11:15:00.000Z",
+        "endIso": "2026-04-10T11:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_6P6GC": {
+      "rosterId": "R_20260410_161200_6P6GC",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T11:45:00.000Z",
+        "endIso": "2026-04-10T12:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_TVDV2": {
+      "rosterId": "R_20260410_161200_TVDV2",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T12:15:00.000Z",
+        "endIso": "2026-04-10T12:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_3WES0": {
+      "rosterId": "R_20260410_161200_3WES0",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T12:45:00.000Z",
+        "endIso": "2026-04-10T13:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_161200_FNXEM": {
+      "rosterId": "R_20260410_161200_FNXEM",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T13:15:00.000Z",
+        "endIso": "2026-04-10T13:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": "1492150159931342992",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492150159931342992",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_162748_2U9L5": {
+      "rosterId": "R_20260410_162748_2U9L5",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "348653201437753355",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T14:40:00.000Z",
+        "endIso": "2026-04-10T15:40:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 2,
+        "subLimit": 1,
+        "closeBeforeMin": 2,
+        "repeats": "None",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492167270695440444",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492167270695440444",
+      "announceMessageIds": [],
+      "rsvp": {
+        "799014579334152247": {
+          "status": "JOINED",
+          "tier": "MAIN",
+          "name": "🄺🅼 Abu Fayez",
+          "at": 1775830807287,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": null
+        }
+      }
+    },
+    "R_20260410_163000_Y4U1Q": {
+      "rosterId": "R_20260410_163000_Y4U1Q",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T13:40:00.000Z",
+        "endIso": "2026-04-10T14:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492154687837704223",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492154687837704223",
+      "announceMessageIds": [],
+      "rsvp": {
+        "799014579334152247": {
+          "status": "REJECTED",
+          "tier": null,
+          "name": "🄺🅼 Abu Fayez",
+          "at": 1775827811182,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": "NOT_IN_VOICE_MINUS5"
+        },
+        "348653201437753355": {
+          "status": "REJECTED",
+          "tier": null,
+          "name": "Abdullah Knight | 359827",
+          "at": 1775827879270,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": "NOT_IN_VOICE_MINUS5"
+        }
+      }
+    },
+    "R_20260410_163400_3X2NE": {
+      "rosterId": "R_20260410_163400_3X2NE",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T13:04:00.000Z",
+        "endIso": "2026-04-10T14:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492155693677936771",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492155693677936771",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_163500_UZBP5": {
+      "rosterId": "R_20260410_163500_UZBP5",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T13:45:00.000Z",
+        "endIso": "2026-04-10T14:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": "1492155945881698364",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492155945881698364",
+      "announceMessageIds": [],
+      "rsvp": {
+        "1059075724536975400": {
+          "status": "DECLINED",
+          "tier": null,
+          "name": "Harry MaddisonFlow | 448954",
+          "at": 1775828107655,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": null
+        },
+        "799014579334152247": {
+          "status": "REJECTED",
+          "tier": null,
+          "name": "🄺🅼 Abu Fayez",
+          "at": 1775828118390,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": "NOT_IN_VOICE_MINUS5"
+        },
+        "786255647364349994": {
+          "status": "DECLINED",
+          "tier": null,
+          "name": "Steve Knight | 420254",
+          "at": 1775828123902,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": null
+        }
+      }
+    },
+    "R_20260410_170000_UGCFS": {
+      "rosterId": "R_20260410_170000_UGCFS",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T14:10:00.000Z",
+        "endIso": "2026-04-10T14:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492162237652013076",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492162237652013076",
+      "announceMessageIds": [],
+      "rsvp": {
+        "799014579334152247": {
+          "status": "REJECTED",
+          "tier": null,
+          "name": "🄺🅼 Abu Fayez",
+          "at": 1775829737886,
+          "present": null,
+          "eligibleAtMinus5": false,
+          "rejectedReason": "NOT_IN_VOICE_MINUS5"
+        }
+      }
+    },
+    "R_20260410_170400_7XA59": {
+      "rosterId": "R_20260410_170400_7XA59",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T13:34:00.000Z",
+        "endIso": "2026-04-10T14:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492163244008145039",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492163244008145039",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_170500_7Z246": {
+      "rosterId": "R_20260410_170500_7Z246",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T14:15:00.000Z",
+        "endIso": "2026-04-10T14:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": "1492163495448281088",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492163495448281088",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_173000_AOBE1": {
+      "rosterId": "R_20260410_173000_AOBE1",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T14:40:00.000Z",
+        "endIso": "2026-04-10T15:00:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492169787218858226",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492169787218858226",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_173400_9E00H": {
+      "rosterId": "R_20260410_173400_9E00H",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T14:04:00.000Z",
+        "endIso": "2026-04-10T15:04:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": "1492170793235255470",
+      "rosterMessageUrl": "https://discord.com/channels/1021095264821444730/1471663823151960064/1492170793235255470",
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_173500_PZMY6": {
+      "rosterId": "R_20260410_173500_PZMY6",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "CLOSED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T14:45:00.000Z",
+        "endIso": "2026-04-10T15:05:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_180000_9J9HG": {
+      "rosterId": "R_20260410_180000_9J9HG",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "SCHEDULED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T15:10:00.000Z",
+        "endIso": "2026-04-10T15:30:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_180400_CF2TN": {
+      "rosterId": "R_20260410_180400_CF2TN",
+      "guildId": "1021095264821444730",
+      "typeId": "informal",
+      "status": "SCHEDULED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "informal",
+        "description": "",
+        "startIso": "2026-04-10T14:34:00.000Z",
+        "endIso": "2026-04-10T15:34:00.000Z",
+        "durationMin": 60,
+        "mainLimit": 10,
+        "subLimit": 0,
+        "closeBeforeMin": 10,
+        "repeats": "Every30Min",
+        "attendeeRoleId": null
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    },
+    "R_20260410_180500_V25AS": {
+      "rosterId": "R_20260410_180500_V25AS",
+      "guildId": "1021095264821444730",
+      "typeId": "inf",
+      "status": "SCHEDULED",
+      "creatorId": "799014579334152247",
+      "remindersMinutes": [
+        20,
+        10,
+        0
+      ],
+      "event": {
+        "title": "inf",
+        "description": "",
+        "startIso": "2026-04-10T15:15:00.000Z",
+        "endIso": "2026-04-10T15:35:00.000Z",
+        "durationMin": 20,
+        "mainLimit": 10,
+        "subLimit": 10,
+        "closeBeforeMin": 5,
+        "repeats": "Every30Min",
+        "attendeeRoleId": "1423533962839588904"
+      },
+      "rosterMessageId": null,
+      "rosterMessageUrl": null,
+      "announceMessageIds": [],
+      "rsvp": {}
+    }
+  }
+}
