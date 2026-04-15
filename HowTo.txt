@@ -1,6 +1,0 @@
-1) شغّل البوت
-
-powershell
-
-node deploy-commands.js
-node index.js
